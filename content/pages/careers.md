@@ -8,11 +8,7 @@ sections:
       text: "C U D A\_ \_s e r v i c e s"
       color: text-dark
     subtitle: Services et consulting de solutions informatiques genève et Romandie
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: "VOTRE INFRASTRUCTURE INFORMATIQUE \nHEBERGÉE EN SUISSE OU MAINTENUE SUR SITE\n\nASSISTANCE DANS LE QUOTIDIEN ET DANS VOS PROJETS\nSUPPORT INFORMATIQUE ET CONSULTING SUR\nSITE A GENÈVE ET EN ROMANDIE\n\n\n\n\n\n\_\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
     actions: []
     media:
       type: FormBlock
