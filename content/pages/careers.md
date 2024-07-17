@@ -41,9 +41,7 @@ sections:
           ET CONSULTING SUR SITE A GENÈVE ET EN ROMANDIE
         tagline: assistance et consulting
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
+        text: |
           explicabo.
         image:
           type: ImageBlock
