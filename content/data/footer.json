@@ -2,12 +2,6 @@
     "text": "C U D A S E R V I C E S - Genève Romandie  -   Services et consulting de solutions digitales.   \n",
     "socialLinks": [
         {
-            "altText": "GitHub link",
-            "url": "https://github.com/netlify",
-            "icon": "github",
-            "type": "Social"
-        },
-        {
             "altText": "Twitter link",
             "url": "https://twitter.com/netlify",
             "icon": "twitter",
