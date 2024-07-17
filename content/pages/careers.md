@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Generic Section With A Form
+      text: "C U D A\_ \_s e r v i c e s"
       color: text-dark
     subtitle: Services et consulting de solutions informatiques genève et Romandie
     text: |-
