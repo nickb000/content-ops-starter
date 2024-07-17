@@ -37,8 +37,8 @@ sections:
             justifyContent: center
       - type: FeaturedItem
         title: >-
-          “Quote from some important person goes right here. I love using
-          Netlify.”
+          ASSISTANCE DANS LE QUOTIDIEN ET DANS VOS PROJETS SUPPORT INFORMATIQUE
+          ET CONSULTING SUR SITE A GENÈVE ET EN ROMANDIE
         tagline: assistance et consulting
         subtitle: 'Jane Doe, Company'
         text: >-
