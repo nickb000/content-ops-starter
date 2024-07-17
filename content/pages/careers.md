@@ -11,10 +11,20 @@ sections:
           ET CONSULTING SUR SITE A GENÈVE ET EN ROMANDIE
         tagline: Testimonial 1
         subtitle: 'Maria Walters, Company'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: |+
+
+
+
+
+          VOTRE INFRASTRUCTURE INFORMATIQUE HEBERGÉE EN SUISSE OU
+          MAINTENUE SUR SITE
+
+
+
+
+
+
+
         image:
           type: ImageBlock
           url: /images/person-placeholder-light.png
