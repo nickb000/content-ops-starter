@@ -3,7 +3,7 @@ title: services
 slug: careers
 sections:
   - type: CarouselSection
-    subtitle: This is a subtitle
+    subtitle: ASSISTANCE
     items:
       - type: FeaturedItem
         title: >-
