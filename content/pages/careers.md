@@ -1,5 +1,5 @@
 ---
-title: Careers
+title: services
 slug: careers
 sections:
   - type: GenericSection
