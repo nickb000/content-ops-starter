@@ -41,8 +41,7 @@ sections:
           ET CONSULTING SUR SITE A GENÈVE ET EN ROMANDIE
         tagline: assistance et consulting
         subtitle: ''
-        text: |
-          explicabo.
+        text: ''
         image:
           type: ImageBlock
           url: /images/img-placeholder-dark.png
