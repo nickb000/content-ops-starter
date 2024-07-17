@@ -1,12 +1,6 @@
 {
-    "text": "C U D A S E R V I C E S - Genève Romandie  -   Services et consulting de solutions digitales.   \n",
+    "text": "C U D A S E R V I C E S - Genève Romandie\n",
     "socialLinks": [
-        {
-            "altText": "GitHub link",
-            "url": "https://github.com/netlify",
-            "icon": "github",
-            "type": "Social"
-        },
         {
             "altText": "Twitter link",
             "url": "https://twitter.com/netlify",
@@ -26,24 +20,7 @@
             "type": "Social"
         }
     ],
-    "legalLinks": [
-        {
-            "label": "Terms",
-            "url": "/",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "type": "Link"
-        },
-        {
-            "label": "Privacy",
-            "url": "/",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "type": "Link"
-        }
-    ],
+    "legalLinks": [],
     "copyrightText": "",
     "colors": "bg-dark-fg-light",
     "type": "Footer"
