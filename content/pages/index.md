@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Services et consulting de solutions informatiques genève et Romandie
+      text: Services et consulting de solutions informatiques
       color: text-dark
       type: TitleBlock
     subtitle: Genève et Romandie
