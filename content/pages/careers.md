@@ -39,7 +39,7 @@ sections:
         title: >-
           ASSISTANCE DANS LE QUOTIDIEN ET DANS VOS PROJETS SUPPORT INFORMATIQUE
           ET CONSULTING SUR SITE A GENÈVE ET EN ROMANDIE
-        tagline: assistance et consulting
+        tagline: ''
         subtitle: ''
         text: ''
         image:
