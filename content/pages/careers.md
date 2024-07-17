@@ -2,14 +2,7 @@
 title: Careers
 slug: careers
 sections:
-  - title:
-      text: CUDA SERVICES
-      color: text-dark
-      styles:
-        self:
-          textAlign: center
-      type: TitleBlock
-    subtitle: Section subtitle
+  - subtitle: Section subtitle
     text: >+
 
 
