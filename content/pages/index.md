@@ -7,6 +7,9 @@ sections:
       text: Services et consulting de solutions informatiques
       color: text-dark
       type: TitleBlock
+      styles:
+        self:
+          fontWeight: 500
     subtitle: Genève et Romandie
     text: >
       A Netlify Create website is a git repo that you own. Every code commit is
