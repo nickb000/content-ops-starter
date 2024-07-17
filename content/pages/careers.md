@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: "cuda\_ services"
+      text: "cuda\_services"
       color: text-dark
     subtitle: Services et consulting de solutions informatiques Genève et Romandie
     text: "VOTRE INFRASTRUCTURE INFORMATIQUE\nHEBERGÉE EN SUISSE OU MAINTENUE SUR SITE\n\nASSISTANCE DANS LE QUOTIDIEN ET DANS VOS PROJETS\n\nSUPPORT INFORMATIQUE ET CONSULTING SUR\nSITE A GENÈVE ET EN ROMANDIE\n\n\_\n"
